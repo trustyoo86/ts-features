@@ -6,4 +6,5 @@
 
 * [rest / spread](v3.0/rest-spread/README.md)
   * [1\) rest parameters in tuple types](v3.0/rest-spread/1-rest-parameters-in-tuple-types.md)
+  * [2\) Generic rest parameters](v3.0/rest-spread/2-generic-rest-parameters.md)
 
